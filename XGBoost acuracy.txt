@@ -1,0 +1,23 @@
+test_size=0.20, random_state=7
+balance:32/7 :4.56
+accuracy: 94.87%
+
+test_size=0.10, random_state=5
+balance:14/6 :2.5
+accuracy: 95%
+
+test_size=0.25, random_state=7
+balance:39/10 :3.9
+accuracy: 98%
+
+test_size=0.20, random_state=10
+balance:28/11 :2.55
+accuracy: 100%
+
+test_size=0.10, random_state=20
+balance:13/7 :1.86
+accuracy: 100%
+
+test_size=0.12, random_state=22
+balance:14/10 :1.4
+accuracy: 100%
